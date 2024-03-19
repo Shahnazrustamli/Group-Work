@@ -269,3 +269,60 @@
         background-color: #0072ef;
     
     }
+    .btn1:hover{
+      background-color: #58a9ff;
+  }
+  
+  
+  .secondh2one{
+  
+      color: #0072ef;
+      text-align: center;
+      padding-top: 60px;
+  }
+  
+  
+  .secondh1two{
+  
+      color:#34495e ;
+      text-align: center;
+      font-size: 40px;
+      padding-top: 5px;
+  
+  }
+  
+  
+  
+  .secondh3one{
+  
+  color:#34495e ;
+      text-align: center;
+      
+      padding-top: 5px;
+      padding-bottom: 20px;
+  
+  }
+  
+  
+  .middletextside{
+  
+      margin-left: 50px;
+  padding: 10px;
+  color:#34495e ;
+  }
+  
+  .exercise1{
+      margin-left: 80px;
+  }
+  
+  .exercisechange1{
+      margin-left: 80px;
+  }
+  
+  
+  .middlebutton{
+      width: 170px;
+      height: 60px;
+      margin-left: 120px;
+  }
+  
